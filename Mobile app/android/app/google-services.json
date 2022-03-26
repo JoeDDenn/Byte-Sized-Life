@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039181264177",
+    "project_id": "sex-education-277a6",
+    "storage_bucket": "sex-education-277a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039181264177:android:1af0df56ff9f3dc7426c10",
+        "android_client_info": {
+          "package_name": "com.example.solutionchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039181264177-dm3sg3jf3t9gap1hmr1bg4ph2e17uak7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solutionchallenge",
+            "certificate_hash": "41eaa4b8d357f5f4aa8f1d33af4e25db8754bd55"
+          }
+        },
+        {
+          "client_id": "1039181264177-rkn748fe19gq7548as552l74o7qpnlg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTXVCLNGGrsHJT54ssKlLDm03R2xaWbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039181264177-rkn748fe19gq7548as552l74o7qpnlg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
